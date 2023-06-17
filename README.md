@@ -6,4 +6,4 @@ Technology: ReactJs, VITE, OpenWeatherAPI, NodeJs.
 
 ALso available local Indian language.
  
- !(./R2.png)
+ ![](./R2.png)
